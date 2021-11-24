@@ -14,7 +14,6 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   ArticleBloc articleBloc;
- 
 
   @override
   void initState() {
@@ -136,7 +135,6 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(
                       color: Colors.black,
                     )),
-
               ),
               decoration: new BoxDecoration(
                 color: Color.fromRGBO(255, 255, 255, 0.8),
