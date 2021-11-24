@@ -1,16 +1,17 @@
 # article_lab5
 
-A new Flutter application.
+My new Flutter Lab "Article App" that uses https://newsapi.org/ and bloc
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/55983798/143137262-2266217a-5396-4f3d-9400-5969f6915520.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/55983798/143137339-3096f80d-3149-4b89-b57c-569555071941.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/55983798/143137488-3e91e1eb-87ac-49dd-9c41-5b54a824ce4d.png)
+
+## Video
+
+https://user-images.githubusercontent.com/55983798/143138536-8a1f667b-7ec4-4f4a-9ede-5136c27b13ea.mp4
+
