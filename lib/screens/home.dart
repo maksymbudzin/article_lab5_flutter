@@ -14,6 +14,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   ArticleBloc articleBloc;
+  int status = 0;
 
   @override
   void initState() {
@@ -45,8 +46,7 @@ class _HomePageState extends State<HomePage> {
               body: Container(
                 decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: NetworkImage(
-                        "https://images.megapixl.com/2144/21448290.jpg"),
+                    image: AssetImage('assets/images/background_news.jpg'),
                     fit: BoxFit.cover,
                   ),
                 ),
@@ -145,6 +145,11 @@ class _HomePageState extends State<HomePage> {
             ),
             onTap: () {
               navigateToDetail(context, articles[pos]);
+            },
+            onLongPress: () {
+              setState(() {
+                articles.removeAt(pos);
+              });
             },
           ),
         );
