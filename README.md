@@ -15,3 +15,7 @@ My new Flutter Lab "Article App" that uses https://newsapi.org/ and bloc
 
 https://user-images.githubusercontent.com/55983798/143138536-8a1f667b-7ec4-4f4a-9ede-5136c27b13ea.mp4
 
+## Video with new feature(hide articles from list)
+
+https://user-images.githubusercontent.com/55983798/143305703-438fd851-bb5a-4fb6-b4ac-3addd9eb8cfd.mp4
+
