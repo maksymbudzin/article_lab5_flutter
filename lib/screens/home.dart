@@ -136,7 +136,7 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(
                       color: Colors.black,
                     )),
-                // subtitle: Text(articles[pos].publishedAt),
+
               ),
               decoration: new BoxDecoration(
                 color: Color.fromRGBO(255, 255, 255, 0.8),
