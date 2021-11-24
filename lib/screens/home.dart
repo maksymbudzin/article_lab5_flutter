@@ -14,7 +14,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   ArticleBloc articleBloc;
-  int status = 0;
+ 
 
   @override
   void initState() {
